@@ -1,2 +1,33 @@
 upcoming Events
 --------------------------------
+G H Patel College of Engineering & Technology (A Constituent College of CVM University), Vallabh Vidyanagar.
+
+Certainly there's a phenomenon around open source. There will be a lot of neat things that get done there.
+- Bill Gates
+
+We are excited to announce an event on Introduction to Open-source for encouraging open-source contributions in association with GCET CSI SB and GCET CodeChef Chapter!
+
+Event Details:
+⏩ Organized under Hacktoberfest 2020
+
+
+📆 1st Oct. 2020 to 31st Oct. 2020
+📍 Totally online💻
+
+🎁 Limited edition t-shirt by Hacktoberfest to those whose PRs get successfully merged
+
+We also have a session on open source contribution.
+
+Session details:
+
+📆 17th October, 2020 (Saturday)
+⏰ 4 PM
+Speaker: Akshit Desai(4th year IT)
+
+
+⏩Registration link for  the session : https://bit.ly/GIT_HACK
+
+⏩Want to know more about Hacktoberfest?
+Visit : https://hacktoberfest.digitalocean.com/
+
+Other details will be shared to you on mail.
