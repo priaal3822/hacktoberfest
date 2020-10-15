@@ -20,9 +20,7 @@ We also have a session on open source contribution.
 
 Session details:
 
-📆 17th October, 2020 (Saturday)
-⏰ 4 PM
-Speaker: Akshit Desai(4th year IT)
+Session is already started !!
 
 
 ⏩Registration link for  the session : https://bit.ly/GIT_HACK
@@ -31,3 +29,4 @@ Speaker: Akshit Desai(4th year IT)
 Visit : https://hacktoberfest.digitalocean.com/
 
 Other details will be shared to you on mail.
+Join hectoberfest now !!
